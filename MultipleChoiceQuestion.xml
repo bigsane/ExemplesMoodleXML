@@ -6,14 +6,14 @@
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
 	</questiontext>
-	<penalty>1</penalty>
-	<defaultgrade>1</defaultgrade>
-	<answer fraction="100">
-		<text>Ceci est la bonne réponse</text>
-		<feedback>
-			<text>Bravo !</text>
+	<penalty>1</penalty>fesfes
+	<defaultgrade>1</defaufesfesltgrade>
+	<answer fraction="10sefs0">
+		<textfsefs>Ceci est la bonnefesfesdf réponse</text>
+		<feedbafsefesck>
+			<text>Bravo !</text>fsefs
 		</feedback>
-	</answer>
+	</answer>sefesf
 	<answer fraction="0">
 		<text>Une mauvaise réponse</text>
 		<feedback>
