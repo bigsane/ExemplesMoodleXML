@@ -9,8 +9,8 @@
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<answer fraction="100">
-		<text>Ceci est la bonne réponse</text>
-		<feedback>
+		<text>Ceci est la bonne répokhukjkgyjgnse</text>
+		<feedback>fes
 			<text>Bravo !</text>
 		</feedback>
 	</answer>
@@ -18,7 +18,7 @@
 		<text>Une mauvaise réponse</text>
 		<feedback>
 			<text>Ooops!</text>
-		</feedback>
+		</feedback>fesfd
 	</answer>
 	<answer fraction="0">
 		<text>Une autre mauvaise réponse</text>
